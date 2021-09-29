@@ -10,7 +10,6 @@ function App() {
       <div className="App">
         <Route component={Home} path="/" exact/>
         <Route component={NasaPhoto} path="/nasaphoto" exact/>
-
       </div>
     </BrowserRouter>
 
