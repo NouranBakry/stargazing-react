@@ -1,7 +1,20 @@
 .navbar {
-    display:flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
+  background-color: rgba(22, 22, 22, 0.8);
+}
+.link {
+  color: #efefef;
+  display: inline-block;
+  padding: 3px 20px;
+  font-size: 16px;
+  text-decoration: none;
+  transition: 0.3s ease all;
 }
 .link:visited {
-  color: white;
+  color: #efefef;
+}
+.link:hover {
+  color: #7c73fa;
+  transform: scale(1.1);
 }

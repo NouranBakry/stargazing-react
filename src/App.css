@@ -1,2 +1,9 @@
-.App {
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+
+body {
+  font-family: "Righteous", cursive;
+  color: #7c73fa;
+  line-height: 1.7;
+  font-size: 19px;
+  background-color: #222222;
 }
