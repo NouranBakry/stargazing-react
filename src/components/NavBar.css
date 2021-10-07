@@ -1,0 +1,7 @@
+.navbar {
+    display:flex;
+    justify-content: center;
+}
+.link:visited {
+  color: white;
+}

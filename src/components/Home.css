@@ -1,0 +1,19 @@
+.home {
+  position: absolute;
+  display: flex;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  background-color: black;
+  color:white;
+  justify-content: center;
+  font-size: large;
+}
+.home-link:visited{
+    color:white;
+}
